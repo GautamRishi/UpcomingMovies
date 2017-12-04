@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Upcoming Movies</string>
+    <string name="adult">(A)</string>
+    <string name="not_adult">(U/A)</string>
+    <string name="info">Information</string>
+    <string name="about">Developed by\n\nGautam Rishi\ngautam4278@gmail.com\n9145563683</string>
+    <string name="ok">OK</string>
+    <string name="internet_not_available">Internet not available!</string>
+    <string name="some_thing_went_wrong">Some thing went wrong!</string>
+</resources>
